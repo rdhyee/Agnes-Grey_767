@@ -1,0 +1,69 @@
+_repo: Agnes-Grey_767
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brontë, Anne
+    aliases:
+    - Bronte, Anne
+    - Bell, Acton
+    birthdate: 1820
+    deathdate: 1849
+    gutenberg_agent_id: '404'
+    url: http://www.gutenberg.org/2009/agents/404
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Bront%C3%AB
+description: "Agnes Grey is the debut novel of English author Anne Brontë (writing\
+  \ under the pen name of Acton Bell), first published in December 1847, and republished\
+  \ in a second edition in 1850. The novel follows Agnes Grey, a governess, as she\
+  \ works within families of the English gentry. Scholarship and comments by Anne's\
+  \ sister Charlotte Brontë suggest the novel is largely based on Anne Brontë's own\
+  \ experiences as a governess for five years. Like her sister Charlotte's novel Jane\
+  \ Eyre, it addresses what the precarious position of governess entailed and how\
+  \ it affected a young woman.\nThe choice of central character allows Anne to deal\
+  \ with issues of oppression and abuse of women and governesses, isolation and ideas\
+  \ of empathy. An additional theme is the fair treatment of animals. Agnes Grey also\
+  \ mimics some of the stylistic approaches of bildungsromans, employing ideas of\
+  \ personal growth and coming to age, but representing a character who in fact does\
+  \ not gain in virtue.\nThe Irish novelist George Moore praised Agnes Grey as \"\
+  the most perfect prose narrative in English letters,\" and went so far as to compare\
+  \ Anne's prose to that of Jane Austen. Modern critics have made more subdued claims\
+  \ admiring Agnes Grey with a less overt praise of Brontë's work than Moore.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '767'
+  wikidata: Q517172
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Feminist fiction'
+- GITenberg
+title: Agnes Grey
+url: http://www.gutenberg.org/ebooks/767
+wikipedia:
+- https://fi.wikipedia.org/wiki/Agnes_kotiopettajatar
+- https://fr.wikipedia.org/wiki/Agnes_Grey
+- https://ar.wikipedia.org/wiki/%D8%A3%D8%BA%D9%86%D9%8A%D8%B3_%D8%BA%D8%B1%D8%A7%D9%8A
+- https://zh.wikipedia.org/wiki/%E9%98%BF%E6%A0%BC%E5%B0%BC%E6%96%AF%C2%B7%E6%A0%BC%E9%9B%B7
+- https://sr.wikipedia.org/wiki/%D0%90%D0%B3%D0%BD%D0%B5%D1%81_%D0%93%D1%80%D0%B5%D1%98
+- https://cs.wikipedia.org/wiki/Agnes_Grey
+- https://de.wikipedia.org/wiki/Agnes_Grey
+- https://es.wikipedia.org/wiki/Agnes_Grey
+- https://hu.wikipedia.org/wiki/Agnes_Grey
+- https://simple.wikipedia.org/wiki/Agnes_Grey
+- https://eu.wikipedia.org/wiki/Agnes_Grey
+- https://cy.wikipedia.org/wiki/Agnes_Grey
+- https://en.wikipedia.org/wiki/Agnes_Grey
+- https://it.wikipedia.org/wiki/Agnes_Grey
+- https://ru.wikiquote.org/wiki/%D0%90%D0%B3%D0%BD%D0%B5%D1%81_%D0%93%D1%80%D0%B5%D0%B9
+- https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%BD%D0%B5%D1%81_%D0%93%D1%80%D0%B5%D0%B9
+- https://ro.wikipedia.org/wiki/Agnes_Grey
+- https://sv.wikipedia.org/wiki/Agnes_Grey
+- https://pl.wikiquote.org/wiki/Agnes_Grey
